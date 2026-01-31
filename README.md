@@ -32,4 +32,4 @@ The project follows these simple steps:
 * **Peak Time:** The 3rd Quarter (July–Sept) sees the most sales.
 
 ## 📝 Author
-This analysis was performed as part of a Data Science internship project.
+This analysis was performed as part of a Generative AI Internship Technical Evaluation.
